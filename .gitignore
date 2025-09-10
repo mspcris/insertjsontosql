@@ -1,0 +1,10 @@
+# Arquivos de ambiente e credenciais
+.env
+
+# Arquivos de documentação ou dados crus
+Siglario.csv
+Siglario.pdf
+Siglario.xlsx
+
+# Arquivos de ambiente virtual
+venv/
