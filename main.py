@@ -131,3 +131,5 @@ finally:
     if 'conn' in locals():
         conn.close()
     print("Conexão encerrada.")
+
+    #commit 
