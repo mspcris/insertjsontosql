@@ -1,0 +1,2806 @@
+[
+  {
+    "ABREVIATURA": "1ário",
+    "SIGNIFICADO": "primário"
+  },
+  {
+    "ABREVIATURA": "1T",
+    "SIGNIFICADO": "um tempo"
+  },
+  {
+    "ABREVIATURA": "2ário",
+    "SIGNIFICADO": "secundário"
+  },
+  {
+    "ABREVIATURA": "2T",
+    "SIGNIFICADO": "dois tempos"
+  },
+  {
+    "ABREVIATURA": "3ário",
+    "SIGNIFICADO": "terciário"
+  },
+  {
+    "ABREVIATURA": "3T",
+    "SIGNIFICADO": "três tempos"
+  },
+  {
+    "ABREVIATURA": "4T",
+    "SIGNIFICADO": "quatro tempos"
+  },
+  {
+    "ABREVIATURA": "A",
+    "SIGNIFICADO": "aborto"
+  },
+  {
+    "ABREVIATURA": "A/E",
+    "SIGNIFICADO": "a esclarecer"
+  },
+  {
+    "ABREVIATURA": "AA",
+    "SIGNIFICADO": "ar ambiente"
+  },
+  {
+    "ABREVIATURA": "AAA",
+    "SIGNIFICADO": "anictérico, acianótico e afebril"
+  },
+  {
+    "ABREVIATURA": "AAS",
+    "SIGNIFICADO": "ácido acetil salicílico"
+  },
+  {
+    "ABREVIATURA": "AAVV",
+    "SIGNIFICADO": "artérias e veias"
+  },
+  {
+    "ABREVIATURA": "ABD",
+    "SIGNIFICADO": "abdome"
+  },
+  {
+    "ABREVIATURA": "AC",
+    "SIGNIFICADO": "ausculta cardíaca"
+  },
+  {
+    "ABREVIATURA": "Ac U",
+    "SIGNIFICADO": "ácido úrico"
+  },
+  {
+    "ABREVIATURA": "ACLS",
+    "SIGNIFICADO": "sigla em inglês para Suporte Avançado de Vida em Cardiologia"
+  },
+  {
+    "ABREVIATURA": "ACM",
+    "SIGNIFICADO": "a critério médico"
+  },
+  {
+    "ABREVIATURA": "ACO",
+    "SIGNIFICADO": "anticoncepcional oral"
+  },
+  {
+    "ABREVIATURA": "ACV",
+    "SIGNIFICADO": "aparelho cardiovascular"
+  },
+  {
+    "ABREVIATURA": "AD",
+    "SIGNIFICADO": "átrio direito"
+  },
+  {
+    "ABREVIATURA": "ADH",
+    "SIGNIFICADO": "sigla em inglês para hormônio antidiurético"
+  },
+  {
+    "ABREVIATURA": "AE",
+    "SIGNIFICADO": "átrio esquerdo"
+  },
+  {
+    "ABREVIATURA": "AESP",
+    "SIGNIFICADO": "atividade elétrica sem pulso"
+  },
+  {
+    "ABREVIATURA": "AF",
+    "SIGNIFICADO": "antecedentes familiares"
+  },
+  {
+    "ABREVIATURA": "AGE",
+    "SIGNIFICADO": "ácidos graxos essenciais"
+  },
+  {
+    "ABREVIATURA": "AHT",
+    "SIGNIFICADO": "ambos hemitórax"
+  },
+  {
+    "ABREVIATURA": "AIDS",
+    "SIGNIFICADO": "equivalente em inglês de síndrome da imunodeficiência adquirida. Também permitido e preferível o equivalente em português: SIDA."
+  },
+  {
+    "ABREVIATURA": "AINE",
+    "SIGNIFICADO": "anti-inflamatório não esteróide"
+  },
+  {
+    "ABREVIATURA": "AINH",
+    "SIGNIFICADO": "anti-inflamatório não hormonal"
+  },
+  {
+    "ABREVIATURA": "AIT",
+    "SIGNIFICADO": "acidente isquêmico transitório"
+  },
+  {
+    "ABREVIATURA": "Amp ou amp",
+    "SIGNIFICADO": "ampola"
+  },
+  {
+    "ABREVIATURA": "ANVISA",
+    "SIGNIFICADO": "Agencia Nacional de Vigilância Sanitária"
+  },
+  {
+    "ABREVIATURA": "AO",
+    "SIGNIFICADO": "abertura ocular"
+  },
+  {
+    "ABREVIATURA": "AP",
+    "SIGNIFICADO": "antecedentes pessoais"
+  },
+  {
+    "ABREVIATURA": "APS",
+    "SIGNIFICADO": "Atenção Primária à Saúde"
+  },
+  {
+    "ABREVIATURA": "AR",
+    "SIGNIFICADO": "aparelho respiratório"
+  },
+  {
+    "ABREVIATURA": "ARA",
+    "SIGNIFICADO": "antagonista dos receptores da angiotensina"
+  },
+  {
+    "ABREVIATURA": "ASA",
+    "SIGNIFICADO": "escala utilizada para avaliar risco cirúrgico (classes de I- V da American Society of Anesthesiologists)"
+  },
+  {
+    "ABREVIATURA": "ASC",
+    "SIGNIFICADO": "área de superfície corpórea"
+  },
+  {
+    "ABREVIATURA": "ATB",
+    "SIGNIFICADO": "antibiótico"
+  },
+  {
+    "ABREVIATURA": "ATC",
+    "SIGNIFICADO": "angioplastia transluminal coronariana"
+  },
+  {
+    "ABREVIATURA": "Atm",
+    "SIGNIFICADO": "atmosfera(s) (unidade de pressão)"
+  },
+  {
+    "ABREVIATURA": "ATM",
+    "SIGNIFICADO": "articulação temporo mandibular"
+  },
+  {
+    "ABREVIATURA": "ATP",
+    "SIGNIFICADO": "adenosina trifosfato"
+  },
+  {
+    "ABREVIATURA": "ATQ",
+    "SIGNIFICADO": "artroplastia total de quadril"
+  },
+  {
+    "ABREVIATURA": "AU",
+    "SIGNIFICADO": "altura uterina"
+  },
+  {
+    "ABREVIATURA": "Aux. Enf.",
+    "SIGNIFICADO": "auxiliar de enfermagem"
+  },
+  {
+    "ABREVIATURA": "AV",
+    "SIGNIFICADO": "átrio-ventricular"
+  },
+  {
+    "ABREVIATURA": "AVC",
+    "SIGNIFICADO": "acidente vascular cerebral"
+  },
+  {
+    "ABREVIATURA": "AVCH",
+    "SIGNIFICADO": "acidente vascular cerebral hemorrágico"
+  },
+  {
+    "ABREVIATURA": "AVCI",
+    "SIGNIFICADO": "acidente vascular cerebral isquêmico"
+  },
+  {
+    "ABREVIATURA": "AVCI",
+    "SIGNIFICADO": "acidente vascular cerebral isquêmico"
+  },
+  {
+    "ABREVIATURA": "AVE",
+    "SIGNIFICADO": "acidente vascular encefálico. Também permitido AVC (acidente vascular cerebral), quando a lesão for no cérebro."
+  },
+  {
+    "ABREVIATURA": "AVEH",
+    "SIGNIFICADO": "acidente vascular encefálico hemorrágico"
+  },
+  {
+    "ABREVIATURA": "AVEI",
+    "SIGNIFICADO": "acidente vascular encefálico isquêmico"
+  },
+  {
+    "ABREVIATURA": "AVF",
+    "SIGNIFICADO": "anteversoflexão"
+  },
+  {
+    "ABREVIATURA": "AVP",
+    "SIGNIFICADO": "acesso venoso periférico"
+  },
+  {
+    "ABREVIATURA": "BANF",
+    "SIGNIFICADO": "bulhas arrítmicas normofonéticas"
+  },
+  {
+    "ABREVIATURA": "BAV",
+    "SIGNIFICADO": "bloqueio átrio-ventricular"
+  },
+  {
+    "ABREVIATURA": "BAVT",
+    "SIGNIFICADO": "bloqueio átrio-ventricular total"
+  },
+  {
+    "ABREVIATURA": "BB ou",
+    "SIGNIFICADO": "beta-bloqueadores"
+  },
+  {
+    "ABREVIATURA": "BCE",
+    "SIGNIFICADO": "broncoespasmo"
+  },
+  {
+    "ABREVIATURA": "BCF",
+    "SIGNIFICADO": "batimento cárdio-fetal"
+  },
+  {
+    "ABREVIATURA": "BCG",
+    "SIGNIFICADO": "bacilo de Calmette-Guérin. Vacina anti-tuberculose"
+  },
+  {
+    "ABREVIATURA": "BCP",
+    "SIGNIFICADO": "broncopneumonia"
+  },
+  {
+    "ABREVIATURA": "BCRD",
+    "SIGNIFICADO": "bloqueio completo do ramo direito"
+  },
+  {
+    "ABREVIATURA": "BCRE",
+    "SIGNIFICADO": "bloqueio completo de ramo esquerdo"
+  },
+  {
+    "ABREVIATURA": "BE",
+    "SIGNIFICADO": "equivalente em inglês de excesso de base"
+  },
+  {
+    "ABREVIATURA": "BEG",
+    "SIGNIFICADO": "bom estado geral"
+  },
+  {
+    "ABREVIATURA": "BH",
+    "SIGNIFICADO": "balanço hídrico"
+  },
+  {
+    "ABREVIATURA": "BHCG -HCG",
+    "SIGNIFICADO": "sigla em inglês para: gonadotrofina coriônica humana"
+  },
+  {
+    "ABREVIATURA": "BI",
+    "SIGNIFICADO": "bomba de infusão"
+  },
+  {
+    "ABREVIATURA": "BIC",
+    "SIGNIFICADO": "bomba de infusão contínua"
+  },
+  {
+    "ABREVIATURA": "BIPAP",
+    "SIGNIFICADO": "sigla em inglês para: pressão positiva intermitente bifásica"
+  },
+  {
+    "ABREVIATURA": "BK",
+    "SIGNIFICADO": "bacilo de Koch. Mycobacterium tuberculosis"
+  },
+  {
+    "ABREVIATURA": "BLS",
+    "SIGNIFICADO": "sigla em inglês para: Suporte Básico de Vida"
+  },
+  {
+    "ABREVIATURA": "BNF",
+    "SIGNIFICADO": "bulhas normofonéticas"
+  },
+  {
+    "ABREVIATURA": "BP",
+    "SIGNIFICADO": "baixo peso"
+  },
+  {
+    "ABREVIATURA": "bpm",
+    "SIGNIFICADO": "batimentos por minuto"
+  },
+  {
+    "ABREVIATURA": "BPP",
+    "SIGNIFICADO": "boa perfusão periférica"
+  },
+  {
+    "ABREVIATURA": "BRD",
+    "SIGNIFICADO": "bloqueio de ramo direito"
+  },
+  {
+    "ABREVIATURA": "BRE",
+    "SIGNIFICADO": "bloqueio de ramo esquerdo"
+  },
+  {
+    "ABREVIATURA": "BRNF",
+    "SIGNIFICADO": "bulhas rítmicas normofonéticas"
+  },
+  {
+    "ABREVIATURA": "BV",
+    "SIGNIFICADO": "baixo ventre"
+  },
+  {
+    "ABREVIATURA": "Bx",
+    "SIGNIFICADO": "biópsia"
+  },
+  {
+    "ABREVIATURA": "C/ ou c/",
+    "SIGNIFICADO": "com"
+  },
+  {
+    "ABREVIATURA": "Ca",
+    "SIGNIFICADO": "cálcio"
+  },
+  {
+    "ABREVIATURA": "CA",
+    "SIGNIFICADO": "câncer"
+  },
+  {
+    "ABREVIATURA": "CACG",
+    "SIGNIFICADO": "cineangiocoronariografia"
+  },
+  {
+    "ABREVIATURA": "Cal",
+    "SIGNIFICADO": "calorias"
+  },
+  {
+    "ABREVIATURA": "Cat O2",
+    "SIGNIFICADO": "cateter de oxigênio"
+  },
+  {
+    "ABREVIATURA": "CATE",
+    "SIGNIFICADO": "cateterismo"
+  },
+  {
+    "ABREVIATURA": "CC",
+    "SIGNIFICADO": "centro cirúrgico"
+  },
+  {
+    "ABREVIATURA": "Cça ou cça",
+    "SIGNIFICADO": "criança"
+  },
+  {
+    "ABREVIATURA": "CCIH",
+    "SIGNIFICADO": "Comissão de Controle de Infecção Hospitalar"
+  },
+  {
+    "ABREVIATURA": "CD",
+    "SIGNIFICADO": "conduta"
+  },
+  {
+    "ABREVIATURA": "CDI",
+    "SIGNIFICADO": "cardio desfibrilador implantável"
+  },
+  {
+    "ABREVIATURA": "CDL",
+    "SIGNIFICADO": "cateter duplo lúmen"
+  },
+  {
+    "ABREVIATURA": "CEC",
+    "SIGNIFICADO": "circulação extra corpórea"
+  },
+  {
+    "ABREVIATURA": "CEE",
+    "SIGNIFICADO": "Comissão de Ética de Enfermagem"
+  },
+  {
+    "ABREVIATURA": "CFM",
+    "SIGNIFICADO": "Conselho Federal de Medicina"
+  },
+  {
+    "ABREVIATURA": "CFT",
+    "SIGNIFICADO": "Comissão de Farmácia e Terapêutica"
+  },
+  {
+    "ABREVIATURA": "CHAAA",
+    "SIGNIFICADO": "corado, hidratado, anictérico, acianótico e afebril"
+  },
+  {
+    "ABREVIATURA": "CIA",
+    "SIGNIFICADO": "comunicação intra-atrial"
+  },
+  {
+    "ABREVIATURA": "CIAP",
+    "SIGNIFICADO": "Classificação Internacional de Atenção Primária"
+  },
+  {
+    "ABREVIATURA": "CID",
+    "SIGNIFICADO": "Código Internacional de Doenças"
+  },
+  {
+    "ABREVIATURA": "CINE",
+    "SIGNIFICADO": "cinecoronariografia"
+  },
+  {
+    "ABREVIATURA": "CIPA",
+    "SIGNIFICADO": "Comissão Interna de Previsão de Acidentes"
+  },
+  {
+    "ABREVIATURA": "CIV",
+    "SIGNIFICADO": "comunicação interventricular"
+  },
+  {
+    "ABREVIATURA": "CK",
+    "SIGNIFICADO": "creatinofosfoquinase"
+  },
+  {
+    "ABREVIATURA": "CK-MB",
+    "SIGNIFICADO": "creatinoquinase, fração MB"
+  },
+  {
+    "ABREVIATURA": "cm",
+    "SIGNIFICADO": "centímetro(s)"
+  },
+  {
+    "ABREVIATURA": "CM",
+    "SIGNIFICADO": "centro médico"
+  },
+  {
+    "ABREVIATURA": "cmH2O",
+    "SIGNIFICADO": "centímetro(s) de água"
+  },
+  {
+    "ABREVIATURA": "CMTE ou Cmte",
+    "SIGNIFICADO": "comandante"
+  },
+  {
+    "ABREVIATURA": "CMV",
+    "SIGNIFICADO": "citomegalovírus"
+  },
+  {
+    "ABREVIATURA": "CNES",
+    "SIGNIFICADO": "Cadastro Nacional de Estabelecimento de Saúde"
+  },
+  {
+    "ABREVIATURA": "CO",
+    "SIGNIFICADO": "monóxido de carbono"
+  },
+  {
+    "ABREVIATURA": "CO2",
+    "SIGNIFICADO": "gás carbônico"
+  },
+  {
+    "ABREVIATURA": "COD3",
+    "SIGNIFICADO": "código 3"
+  },
+  {
+    "ABREVIATURA": "COFEN",
+    "SIGNIFICADO": "Conselho Federal de Enfermagem"
+  },
+  {
+    "ABREVIATURA": "COLONO",
+    "SIGNIFICADO": "colonoscopia"
+  },
+  {
+    "ABREVIATURA": "Comp. ou comp.",
+    "SIGNIFICADO": "comprimido (s)"
+  },
+  {
+    "ABREVIATURA": "Cont.",
+    "SIGNIFICADO": "contínua"
+  },
+  {
+    "ABREVIATURA": "COREN",
+    "SIGNIFICADO": "Conselho Regional de Enfermagem"
+  },
+  {
+    "ABREVIATURA": "COT",
+    "SIGNIFICADO": "cânula orotraqueal"
+  },
+  {
+    "ABREVIATURA": "CP",
+    "SIGNIFICADO": "cateter peritonial"
+  },
+  {
+    "ABREVIATURA": "CPAP",
+    "SIGNIFICADO": "sigla em inglês para pressão positiva contínua nas vias aéreas"
+  },
+  {
+    "ABREVIATURA": "CPM",
+    "SIGNIFICADO": "conforme prescrição médica"
+  },
+  {
+    "ABREVIATURA": "CPRE",
+    "SIGNIFICADO": "Colangiopancreatografia retrógrada exploradora"
+  },
+  {
+    "ABREVIATURA": "CQDF",
+    "SIGNIFICADO": "Comitê de Qualificação e Desenvolvimento de Fornecedores"
+  },
+  {
+    "ABREVIATURA": "Cr",
+    "SIGNIFICADO": "creatinina"
+  },
+  {
+    "ABREVIATURA": "CREMESP",
+    "SIGNIFICADO": "Conselho Regional de Medicina do Estado de São Paulo"
+  },
+  {
+    "ABREVIATURA": "CRF",
+    "SIGNIFICADO": "Conselho Regional de Farmácia"
+  },
+  {
+    "ABREVIATURA": "CRH",
+    "SIGNIFICADO": "sigla em inglês para: hormônio liberador da corticotropina"
+  },
+  {
+    "ABREVIATURA": "CRM",
+    "SIGNIFICADO": "Conselho Regional de Medicina"
+  },
+  {
+    "ABREVIATURA": "CSST",
+    "SIGNIFICADO": "com supradesnivelamento do segmento ST. Também permitido: com supra de ST."
+  },
+  {
+    "ABREVIATURA": "CT",
+    "SIGNIFICADO": "colesterol total"
+  },
+  {
+    "ABREVIATURA": "CTG",
+    "SIGNIFICADO": "cardiotocografia"
+  },
+  {
+    "ABREVIATURA": "CTI",
+    "SIGNIFICADO": "centro de terapia intensiva. Também permitido: UTI (unidade de terapia intensiva)"
+  },
+  {
+    "ABREVIATURA": "CU",
+    "SIGNIFICADO": "contração uterina"
+  },
+  {
+    "ABREVIATURA": "CUIPA",
+    "SIGNIFICADO": "Ambulatório de cuidados paliativos"
+  },
+  {
+    "ABREVIATURA": "CV",
+    "SIGNIFICADO": "cardioversão"
+  },
+  {
+    "ABREVIATURA": "CVC",
+    "SIGNIFICADO": "cateter venoso central"
+  },
+  {
+    "ABREVIATURA": "CVE",
+    "SIGNIFICADO": "cardioversão elétrica"
+  },
+  {
+    "ABREVIATURA": "CVP",
+    "SIGNIFICADO": "cateter venoso periférico"
+  },
+  {
+    "ABREVIATURA": "d",
+    "SIGNIFICADO": "dia"
+  },
+  {
+    "ABREVIATURA": "D",
+    "SIGNIFICADO": "direito(a), também admitido quando seguido de siglas diagnósticas ou anatômicas."
+  },
+  {
+    "ABREVIATURA": "DAC",
+    "SIGNIFICADO": "doença arterial crônica"
+  },
+  {
+    "ABREVIATURA": "DAOP",
+    "SIGNIFICADO": "doença arterial oclusiva periférica"
+  },
+  {
+    "ABREVIATURA": "DAP",
+    "SIGNIFICADO": "doença arterial periférica"
+  },
+  {
+    "ABREVIATURA": "DB",
+    "SIGNIFICADO": "descompressão brusca"
+  },
+  {
+    "ABREVIATURA": "DC",
+    "SIGNIFICADO": "débito cardíaco"
+  },
+  {
+    "ABREVIATURA": "DCV",
+    "SIGNIFICADO": "doença cardiovascular"
+  },
+  {
+    "ABREVIATURA": "DD",
+    "SIGNIFICADO": "decúbito dorsal"
+  },
+  {
+    "ABREVIATURA": "DDA",
+    "SIGNIFICADO": "doença diarréica aguda"
+  },
+  {
+    "ABREVIATURA": "DDH",
+    "SIGNIFICADO": "decúbito dorsal horizontal"
+  },
+  {
+    "ABREVIATURA": "DEA",
+    "SIGNIFICADO": "desfibrilador externo automático"
+  },
+  {
+    "ABREVIATURA": "Dextro",
+    "SIGNIFICADO": "dextrostix"
+  },
+  {
+    "ABREVIATURA": "DHE",
+    "SIGNIFICADO": "distúrbio hidroeletrolítico"
+  },
+  {
+    "ABREVIATURA": "DHEG",
+    "SIGNIFICADO": "doença hipertensiva específica da gravidez"
+  },
+  {
+    "ABREVIATURA": "DHL",
+    "SIGNIFICADO": "desidrogenase láctica. Também aceito o equivalente em inglês: LDH"
+  },
+  {
+    "ABREVIATURA": "DI",
+    "SIGNIFICADO": "diabetes insipidus"
+  },
+  {
+    "ABREVIATURA": "DIH",
+    "SIGNIFICADO": "dia de internação hospitalar"
+  },
+  {
+    "ABREVIATURA": "DIP",
+    "SIGNIFICADO": "doença inflamatória pélvica"
+  },
+  {
+    "ABREVIATURA": "DIU",
+    "SIGNIFICADO": "dispositivo intrauterino"
+  },
+  {
+    "ABREVIATURA": "DL",
+    "SIGNIFICADO": "duplo lúmen"
+  },
+  {
+    "ABREVIATURA": "DLA",
+    "SIGNIFICADO": "dupla lesão aórtica"
+  },
+  {
+    "ABREVIATURA": "DLD",
+    "SIGNIFICADO": "decúbito lateral direito"
+  },
+  {
+    "ABREVIATURA": "DLE",
+    "SIGNIFICADO": "decúbito lateral esquerdo"
+  },
+  {
+    "ABREVIATURA": "DLP",
+    "SIGNIFICADO": "dislipidemia"
+  },
+  {
+    "ABREVIATURA": "DM",
+    "SIGNIFICADO": "diabetes mellitus"
+  },
+  {
+    "ABREVIATURA": "DMID",
+    "SIGNIFICADO": "diabetes mellitus insulino dependente"
+  },
+  {
+    "ABREVIATURA": "DN",
+    "SIGNIFICADO": "data de nascimento"
+  },
+  {
+    "ABREVIATURA": "DNPM",
+    "SIGNIFICADO": "desenvolvimento neuropsicomotor"
+  },
+  {
+    "ABREVIATURA": "DNV",
+    "SIGNIFICADO": "distúrbio neurovegetativo"
+  },
+  {
+    "ABREVIATURA": "DP",
+    "SIGNIFICADO": "diálise peritoneal"
+  },
+  {
+    "ABREVIATURA": "DPI",
+    "SIGNIFICADO": "diálise peritoneal intermitente"
+  },
+  {
+    "ABREVIATURA": "DPN",
+    "SIGNIFICADO": "dispnéia paroxística noturna"
+  },
+  {
+    "ABREVIATURA": "DPOC",
+    "SIGNIFICADO": "doença pulmonar obstrutiva crônica"
+  },
+  {
+    "ABREVIATURA": "DPP",
+    "SIGNIFICADO": "descolamento prematuro da placenta"
+  },
+  {
+    "ABREVIATURA": "Dr.",
+    "SIGNIFICADO": "doutor"
+  },
+  {
+    "ABREVIATURA": "Dra.",
+    "SIGNIFICADO": "doutora"
+  },
+  {
+    "ABREVIATURA": "DRC",
+    "SIGNIFICADO": "doença renal crônica. Permitido também IRC para insuficiência renal crônica"
+  },
+  {
+    "ABREVIATURA": "DRGE",
+    "SIGNIFICADO": "doença refluxo gastroesofágico"
+  },
+  {
+    "ABREVIATURA": "DST",
+    "SIGNIFICADO": "doença sexualmente transmissível"
+  },
+  {
+    "ABREVIATURA": "DU",
+    "SIGNIFICADO": "débito urinário"
+  },
+  {
+    "ABREVIATURA": "DUM",
+    "SIGNIFICADO": "data da última menstruação"
+  },
+  {
+    "ABREVIATURA": "DV",
+    "SIGNIFICADO": "dia (s) de vida"
+  },
+  {
+    "ABREVIATURA": "DVA",
+    "SIGNIFICADO": "droga vasoativa"
+  },
+  {
+    "ABREVIATURA": "DVE",
+    "SIGNIFICADO": "derivação ventricular externa"
+  },
+  {
+    "ABREVIATURA": "DVH",
+    "SIGNIFICADO": "decúbito ventral horizontal"
+  },
+  {
+    "ABREVIATURA": "DVP",
+    "SIGNIFICADO": "derivação ventrículo peritoneal"
+  },
+  {
+    "ABREVIATURA": "DX",
+    "SIGNIFICADO": "dextrostix. Válido também dextro."
+  },
+  {
+    "ABREVIATURA": "E",
+    "SIGNIFICADO": "esquerdo(a), também admitido quando seguido de siglas diagnósticas ou anatômicas"
+  },
+  {
+    "ABREVIATURA": "EAO",
+    "SIGNIFICADO": "estenose aórtica"
+  },
+  {
+    "ABREVIATURA": "EAP",
+    "SIGNIFICADO": "edema agudo de pulmão"
+  },
+  {
+    "ABREVIATURA": "EC",
+    "SIGNIFICADO": "estertores crepitantes"
+  },
+  {
+    "ABREVIATURA": "ECA",
+    "SIGNIFICADO": "enzima conversora da angiotensina"
+  },
+  {
+    "ABREVIATURA": "ECG",
+    "SIGNIFICADO": "eletrocardiograma"
+  },
+  {
+    "ABREVIATURA": "ECMO",
+    "SIGNIFICADO": "circulação e oxigenação extracorpóresa"
+  },
+  {
+    "ABREVIATURA": "ECO",
+    "SIGNIFICADO": "ecocardiograma"
+  },
+  {
+    "ABREVIATURA": "EDA",
+    "SIGNIFICADO": "endoscopia digestiva alta"
+  },
+  {
+    "ABREVIATURA": "EDB",
+    "SIGNIFICADO": "endoscopia digestiva baixa"
+  },
+  {
+    "ABREVIATURA": "EED",
+    "SIGNIFICADO": "esofagogastroduodenoscopia"
+  },
+  {
+    "ABREVIATURA": "EEG",
+    "SIGNIFICADO": "eletroencefalograma"
+  },
+  {
+    "ABREVIATURA": "EF",
+    "SIGNIFICADO": "exame físico"
+  },
+  {
+    "ABREVIATURA": "ELA",
+    "SIGNIFICADO": "esclerose lateral amiotrófica"
+  },
+  {
+    "ABREVIATURA": "Enf.",
+    "SIGNIFICADO": "enfermeira (o)"
+  },
+  {
+    "ABREVIATURA": "ENMG",
+    "SIGNIFICADO": "eletroneuromiografia"
+  },
+  {
+    "ABREVIATURA": "EP",
+    "SIGNIFICADO": "embolia pulmonar"
+  },
+  {
+    "ABREVIATURA": "EPAP",
+    "SIGNIFICADO": "sigla em inglês para: pressão positiva expiratória nas vias aéreas"
+  },
+  {
+    "ABREVIATURA": "EPI",
+    "SIGNIFICADO": "equipamento de proteção individual"
+  },
+  {
+    "ABREVIATURA": "ESC",
+    "SIGNIFICADO": "estertores subcrepitantes"
+  },
+  {
+    "ABREVIATURA": "ESSV",
+    "SIGNIFICADO": "extrassístole supra ventricular"
+  },
+  {
+    "ABREVIATURA": "ESV",
+    "SIGNIFICADO": "extrassístole ventricular"
+  },
+  {
+    "ABREVIATURA": "etc",
+    "SIGNIFICADO": "etecetera"
+  },
+  {
+    "ABREVIATURA": "EV",
+    "SIGNIFICADO": "endovenoso"
+  },
+  {
+    "ABREVIATURA": "EWS",
+    "SIGNIFICADO": "Early warning score (Escore de alerta precoce)"
+  },
+  {
+    "ABREVIATURA": "Ex",
+    "SIGNIFICADO": "exame (s)"
+  },
+  {
+    "ABREVIATURA": "Ex Lab",
+    "SIGNIFICADO": "exames laboratoriais"
+  },
+  {
+    "ABREVIATURA": "FA",
+    "SIGNIFICADO": "fibrilação atrial"
+  },
+  {
+    "ABREVIATURA": "FAB",
+    "SIGNIFICADO": "ferimento por arma branca"
+  },
+  {
+    "ABREVIATURA": "FAC",
+    "SIGNIFICADO": "fibrilação atrial crônica"
+  },
+  {
+    "ABREVIATURA": "FAF",
+    "SIGNIFICADO": "ferimento por arma de fogo"
+  },
+  {
+    "ABREVIATURA": "FANT",
+    "SIGNIFICADO": "fontanela anterior normotensa"
+  },
+  {
+    "ABREVIATURA": "FAV",
+    "SIGNIFICADO": "fístula artério-venosa"
+  },
+  {
+    "ABREVIATURA": "FC",
+    "SIGNIFICADO": "frequência cardíaca"
+  },
+  {
+    "ABREVIATURA": "FCC",
+    "SIGNIFICADO": "ferimento corto contuso"
+  },
+  {
+    "ABREVIATURA": "FCF",
+    "SIGNIFICADO": "frequência cardíaca fetal"
+  },
+  {
+    "ABREVIATURA": "FD",
+    "SIGNIFICADO": "flanco direito"
+  },
+  {
+    "ABREVIATURA": "FE",
+    "SIGNIFICADO": "flanco esquerdo"
+  },
+  {
+    "ABREVIATURA": "FEM",
+    "SIGNIFICADO": "feminino (gênero)"
+  },
+  {
+    "ABREVIATURA": "FID",
+    "SIGNIFICADO": "fossa ilíaca direita"
+  },
+  {
+    "ABREVIATURA": "FIE",
+    "SIGNIFICADO": "fossa ilíaca esquerda"
+  },
+  {
+    "ABREVIATURA": "FiO2",
+    "SIGNIFICADO": "fração inspiratória de oxigênio"
+  },
+  {
+    "ABREVIATURA": "FISIO",
+    "SIGNIFICADO": "fisioterapia"
+  },
+  {
+    "ABREVIATURA": "FLACC",
+    "SIGNIFICADO": "sigla em inglês para faces, pernas, braços, choro e consolabilidade, quando se referindo à escala de dor"
+  },
+  {
+    "ABREVIATURA": "FM",
+    "SIGNIFICADO": "força muscular"
+  },
+  {
+    "ABREVIATURA": "FO",
+    "SIGNIFICADO": "ferida operatória"
+  },
+  {
+    "ABREVIATURA": "FONO",
+    "SIGNIFICADO": "fonoaudiologia"
+  },
+  {
+    "ABREVIATURA": "FR",
+    "SIGNIFICADO": "frequência respiratória"
+  },
+  {
+    "ABREVIATURA": "FSH",
+    "SIGNIFICADO": "sigla em inglês para hormônio folículo estimulante"
+  },
+  {
+    "ABREVIATURA": "FU",
+    "SIGNIFICADO": "fundo uterino"
+  },
+  {
+    "ABREVIATURA": "FV",
+    "SIGNIFICADO": "fibrilação ventricular"
+  },
+  {
+    "ABREVIATURA": "FX",
+    "SIGNIFICADO": "fratura"
+  },
+  {
+    "ABREVIATURA": "g",
+    "SIGNIFICADO": "grama(s)"
+  },
+  {
+    "ABREVIATURA": "G",
+    "SIGNIFICADO": "gestação"
+  },
+  {
+    "ABREVIATURA": "G 25%",
+    "SIGNIFICADO": "glicose 25%"
+  },
+  {
+    "ABREVIATURA": "G 50%",
+    "SIGNIFICADO": "glicose 50%"
+  },
+  {
+    "ABREVIATURA": "GABA",
+    "SIGNIFICADO": "sigla em inglês para: ácido gama aminobutírico"
+  },
+  {
+    "ABREVIATURA": "GB",
+    "SIGNIFICADO": "glóbulos brancos"
+  },
+  {
+    "ABREVIATURA": "GCS",
+    "SIGNIFICADO": "sigla em inglês para escala de coma de glasgow"
+  },
+  {
+    "ABREVIATURA": "GECA",
+    "SIGNIFICADO": "gastroenterocolite aguda"
+  },
+  {
+    "ABREVIATURA": "GED",
+    "SIGNIFICADO": "gerenciador de documentos"
+  },
+  {
+    "ABREVIATURA": "GGT",
+    "SIGNIFICADO": "gama glutamiltransferase"
+  },
+  {
+    "ABREVIATURA": "GH",
+    "SIGNIFICADO": "sigla em inglês para: hormônio do crescimento"
+  },
+  {
+    "ABREVIATURA": "GIG",
+    "SIGNIFICADO": "gigante para a idade gestacional"
+  },
+  {
+    "ABREVIATURA": "Glic",
+    "SIGNIFICADO": "glicose"
+  },
+  {
+    "ABREVIATURA": "GLOB",
+    "SIGNIFICADO": "globulina"
+  },
+  {
+    "ABREVIATURA": "GO",
+    "SIGNIFICADO": "ginecologia e obstetrícia"
+  },
+  {
+    "ABREVIATURA": "GTM",
+    "SIGNIFICADO": "gastrostomia"
+  },
+  {
+    "ABREVIATURA": "GTS ou gts",
+    "SIGNIFICADO": "gotas"
+  },
+  {
+    "ABREVIATURA": "h",
+    "SIGNIFICADO": "hora"
+  },
+  {
+    "ABREVIATURA": "H",
+    "SIGNIFICADO": "hospital"
+  },
+  {
+    "ABREVIATURA": "H. Pilory",
+    "SIGNIFICADO": "Helicobacter pilory"
+  },
+  {
+    "ABREVIATURA": "HAC",
+    "SIGNIFICADO": "hipertensão arterial crônica"
+  },
+  {
+    "ABREVIATURA": "HAP",
+    "SIGNIFICADO": "hipertensão arterial pulmonar"
+  },
+  {
+    "ABREVIATURA": "HAS",
+    "SIGNIFICADO": "hipertensão arterial sistêmica"
+  },
+  {
+    "ABREVIATURA": "HB",
+    "SIGNIFICADO": "hemoglobina"
+  },
+  {
+    "ABREVIATURA": "HBA1c ou A1C",
+    "SIGNIFICADO": "hemoglobina glicada"
+  },
+  {
+    "ABREVIATURA": "HCD",
+    "SIGNIFICADO": "hipocôndrio direito"
+  },
+  {
+    "ABREVIATURA": "HCE",
+    "SIGNIFICADO": "hipocôndrio esquerdo"
+  },
+  {
+    "ABREVIATURA": "HCM",
+    "SIGNIFICADO": "hemoglobina corpuscular média"
+  },
+  {
+    "ABREVIATURA": "HCO3",
+    "SIGNIFICADO": "bicarbonato. Também permitido: HCO3-"
+  },
+  {
+    "ABREVIATURA": "HD",
+    "SIGNIFICADO": "hipótese diagnóstica"
+  },
+  {
+    "ABREVIATURA": "HDA",
+    "SIGNIFICADO": "hemorragia digestiva alta"
+  },
+  {
+    "ABREVIATURA": "HDB",
+    "SIGNIFICADO": "hemorragia digestiva baixa"
+  },
+  {
+    "ABREVIATURA": "HDL",
+    "SIGNIFICADO": "sigla em inglês para: lipoproteína de alta densidade"
+  },
+  {
+    "ABREVIATURA": "HE",
+    "SIGNIFICADO": "histórico de enfermagem"
+  },
+  {
+    "ABREVIATURA": "HELLP",
+    "SIGNIFICADO": "sigla em inglês para hemólise, enzimas hepáticas elevadas e contagem baixa de plaquetas, quando se referindo à síndrome"
+  },
+  {
+    "ABREVIATURA": "HIC",
+    "SIGNIFICADO": "hipertensão intra craniana"
+  },
+  {
+    "ABREVIATURA": "HIV",
+    "SIGNIFICADO": "sigla em inglês para: vírus da imunodeficiência humana"
+  },
+  {
+    "ABREVIATURA": "HMC",
+    "SIGNIFICADO": "hemocultura"
+  },
+  {
+    "ABREVIATURA": "HMG",
+    "SIGNIFICADO": "hemograma"
+  },
+  {
+    "ABREVIATURA": "HP",
+    "SIGNIFICADO": "hipertensão pulmonar"
+  },
+  {
+    "ABREVIATURA": "HPDA",
+    "SIGNIFICADO": "história pregressa da doença atual"
+  },
+  {
+    "ABREVIATURA": "HPMA",
+    "SIGNIFICADO": "história pregressa da moléstia atual"
+  },
+  {
+    "ABREVIATURA": "HSA",
+    "SIGNIFICADO": "hemorragia subaracnóidea"
+  },
+  {
+    "ABREVIATURA": "HSD",
+    "SIGNIFICADO": "hemorragia subdural"
+  },
+  {
+    "ABREVIATURA": "HT",
+    "SIGNIFICADO": "hematócrito"
+  },
+  {
+    "ABREVIATURA": "HTD",
+    "SIGNIFICADO": "hemitórax direito"
+  },
+  {
+    "ABREVIATURA": "HTE",
+    "SIGNIFICADO": "hemitórax esquerdo"
+  },
+  {
+    "ABREVIATURA": "HTX",
+    "SIGNIFICADO": "hemitórax"
+  },
+  {
+    "ABREVIATURA": "HVA",
+    "SIGNIFICADO": "hepatite por vírus A"
+  },
+  {
+    "ABREVIATURA": "HVB",
+    "SIGNIFICADO": "hepatite por vírus B"
+  },
+  {
+    "ABREVIATURA": "HVC",
+    "SIGNIFICADO": "hepatite por vírus C"
+  },
+  {
+    "ABREVIATURA": "HVD",
+    "SIGNIFICADO": "hepatite por vírus D"
+  },
+  {
+    "ABREVIATURA": "I",
+    "SIGNIFICADO": "iodo"
+  },
+  {
+    "ABREVIATURA": "IA",
+    "SIGNIFICADO": "intra arterial"
+  },
+  {
+    "ABREVIATURA": "IAM",
+    "SIGNIFICADO": "Infarto agudo do miocárdio"
+  },
+  {
+    "ABREVIATURA": "IAMCSST",
+    "SIGNIFICADO": "Infarto agudo do miocárdio com supra elevação de ST"
+  },
+  {
+    "ABREVIATURA": "IAMSST",
+    "SIGNIFICADO": "Infarto agudo do miocárdio sem supra elevação de ST"
+  },
+  {
+    "ABREVIATURA": "IC",
+    "SIGNIFICADO": "insuficiência cardíaca"
+  },
+  {
+    "ABREVIATURA": "ICC",
+    "SIGNIFICADO": "insuficiência cardíaca congestiva"
+  },
+  {
+    "ABREVIATURA": "ICD",
+    "SIGNIFICADO": "insuficiência cardíaca diastólica"
+  },
+  {
+    "ABREVIATURA": "ICO",
+    "SIGNIFICADO": "insuficiência coronariana"
+  },
+  {
+    "ABREVIATURA": "ID",
+    "SIGNIFICADO": "intradérmico"
+  },
+  {
+    "ABREVIATURA": "IECA",
+    "SIGNIFICADO": "inibidor da enzima conversora da angiotensina"
+  },
+  {
+    "ABREVIATURA": "Ig",
+    "SIGNIFICADO": "imunoglobulina. Admitido seguido das letras dos diversos tipos: IgG, IgA, IgM, IgD e IgE."
+  },
+  {
+    "ABREVIATURA": "IG",
+    "SIGNIFICADO": "idade gestacional"
+  },
+  {
+    "ABREVIATURA": "IM",
+    "SIGNIFICADO": "intramuscular"
+  },
+  {
+    "ABREVIATURA": "IMAO",
+    "SIGNIFICADO": "inibidor da monoaminoxidase"
+  },
+  {
+    "ABREVIATURA": "IMC",
+    "SIGNIFICADO": "índice de massa corpórea"
+  },
+  {
+    "ABREVIATURA": "IML",
+    "SIGNIFICADO": "instituto médico legal"
+  },
+  {
+    "ABREVIATURA": "IMV",
+    "SIGNIFICADO": "sigla em inglês para: ventilação mandatória intermitente"
+  },
+  {
+    "ABREVIATURA": "INAL",
+    "SIGNIFICADO": "inalatória (o)"
+  },
+  {
+    "ABREVIATURA": "IO",
+    "SIGNIFICADO": "intra óssea (o)"
+  },
+  {
+    "ABREVIATURA": "IOT",
+    "SIGNIFICADO": "intubação orotraqueal"
+  },
+  {
+    "ABREVIATURA": "IPAP",
+    "SIGNIFICADO": "sigla em inglês para: pressão positiva inspiratória nas vias aéreas"
+  },
+  {
+    "ABREVIATURA": "ipm",
+    "SIGNIFICADO": "inspirações por minuto"
+  },
+  {
+    "ABREVIATURA": "IRA",
+    "SIGNIFICADO": "insuficiência renal aguda"
+  },
+  {
+    "ABREVIATURA": "IRC",
+    "SIGNIFICADO": "insuficiência renal crônica"
+  },
+  {
+    "ABREVIATURA": "IRPA",
+    "SIGNIFICADO": "insuficiência respiratória aguda"
+  },
+  {
+    "ABREVIATURA": "ITU",
+    "SIGNIFICADO": "infecção do trato urinário"
+  },
+  {
+    "ABREVIATURA": "IV",
+    "SIGNIFICADO": "intravenoso"
+  },
+  {
+    "ABREVIATURA": "IVAI",
+    "SIGNIFICADO": "infecção de vias aéreas inferiores"
+  },
+  {
+    "ABREVIATURA": "IVAS",
+    "SIGNIFICADO": "infecção das vias aéreas superiores"
+  },
+  {
+    "ABREVIATURA": "JEC",
+    "SIGNIFICADO": "junção escamo-colunar"
+  },
+  {
+    "ABREVIATURA": "JJ",
+    "SIGNIFICADO": "jejum"
+  },
+  {
+    "ABREVIATURA": "K",
+    "SIGNIFICADO": "potássio. Também permitido K+"
+  },
+  {
+    "ABREVIATURA": "Kcal",
+    "SIGNIFICADO": "kilocaloria (s)"
+  },
+  {
+    "ABREVIATURA": "KCl",
+    "SIGNIFICADO": "cloreto de potássio"
+  },
+  {
+    "ABREVIATURA": "Kg",
+    "SIGNIFICADO": "quilograma (s)"
+  },
+  {
+    "ABREVIATURA": "KPC",
+    "SIGNIFICADO": "bactéria Klebsiella Pneumoniae Carbapenemase"
+  },
+  {
+    "ABREVIATURA": "L",
+    "SIGNIFICADO": "litro (s)"
+  },
+  {
+    "ABREVIATURA": "LA",
+    "SIGNIFICADO": "líquido amniótico"
+  },
+  {
+    "ABREVIATURA": "LAB",
+    "SIGNIFICADO": "laboratório"
+  },
+  {
+    "ABREVIATURA": "LCR",
+    "SIGNIFICADO": "líquido cefaloraquidiano"
+  },
+  {
+    "ABREVIATURA": "LDL",
+    "SIGNIFICADO": "sigla em inglês para: lipoproteína de baixa densidade"
+  },
+  {
+    "ABREVIATURA": "LER",
+    "SIGNIFICADO": "lesão por esforços repetitivos"
+  },
+  {
+    "ABREVIATURA": "LES",
+    "SIGNIFICADO": "lúpus eritematoso sistêmico"
+  },
+  {
+    "ABREVIATURA": "LEUCO",
+    "SIGNIFICADO": "leucócitos"
+  },
+  {
+    "ABREVIATURA": "LH",
+    "SIGNIFICADO": "Sigla em ingês para hormônio luteinizante"
+  },
+  {
+    "ABREVIATURA": "LLA",
+    "SIGNIFICADO": "leucemia linfóide aguda"
+  },
+  {
+    "ABREVIATURA": "LLC",
+    "SIGNIFICADO": "leucemia linfóide crônica"
+  },
+  {
+    "ABREVIATURA": "LM",
+    "SIGNIFICADO": "leite materno"
+  },
+  {
+    "ABREVIATURA": "LMA",
+    "SIGNIFICADO": "leucemia mielóide aguda"
+  },
+  {
+    "ABREVIATURA": "LMC",
+    "SIGNIFICADO": "leucemia mielóide crônica"
+  },
+  {
+    "ABREVIATURA": "LOTE",
+    "SIGNIFICADO": "lúcido e orientado temporoespacialmente"
+  },
+  {
+    "ABREVIATURA": "LP",
+    "SIGNIFICADO": "Lesão por pressão"
+  },
+  {
+    "ABREVIATURA": "m",
+    "SIGNIFICADO": "metro (s)"
+  },
+  {
+    "ABREVIATURA": "M",
+    "SIGNIFICADO": "membro"
+  },
+  {
+    "ABREVIATURA": "m2",
+    "SIGNIFICADO": "metro quadrado"
+  },
+  {
+    "ABREVIATURA": "MASC",
+    "SIGNIFICADO": "masculino (gênero)"
+  },
+  {
+    "ABREVIATURA": "MAT",
+    "SIGNIFICADO": "material"
+  },
+  {
+    "ABREVIATURA": "MAX",
+    "SIGNIFICADO": "máximo"
+  },
+  {
+    "ABREVIATURA": "mcg",
+    "SIGNIFICADO": "micrograma(s)"
+  },
+  {
+    "ABREVIATURA": "mcg",
+    "SIGNIFICADO": "micrograma(s)"
+  },
+  {
+    "ABREVIATURA": "MCP",
+    "SIGNIFICADO": "miocardiopatia"
+  },
+  {
+    "ABREVIATURA": "MCP",
+    "SIGNIFICADO": "miocardiopatia"
+  },
+  {
+    "ABREVIATURA": "MDI",
+    "SIGNIFICADO": "marcapasso desfibrilador implantável. Também admitido como equivalente: CDI (cardiodesfibrilador implantável)"
+  },
+  {
+    "ABREVIATURA": "MED",
+    "SIGNIFICADO": "medicamento (s)"
+  },
+  {
+    "ABREVIATURA": "MEG",
+    "SIGNIFICADO": "mal estado geral"
+  },
+  {
+    "ABREVIATURA": "mEq",
+    "SIGNIFICADO": "miliequivalente (s)"
+  },
+  {
+    "ABREVIATURA": "META",
+    "SIGNIFICADO": "metástase"
+  },
+  {
+    "ABREVIATURA": "MF",
+    "SIGNIFICADO": "movimento fetal"
+  },
+  {
+    "ABREVIATURA": "MFC",
+    "SIGNIFICADO": "Médico de Família e Comunidade"
+  },
+  {
+    "ABREVIATURA": "mg",
+    "SIGNIFICADO": "miligrama(s)"
+  },
+  {
+    "ABREVIATURA": "Mg",
+    "SIGNIFICADO": "magnésio, sendo também permitido: Mg++"
+  },
+  {
+    "ABREVIATURA": "mg/dL",
+    "SIGNIFICADO": "miligramas por decilitro"
+  },
+  {
+    "ABREVIATURA": "MI",
+    "SIGNIFICADO": "moléstias Infecciosas"
+  },
+  {
+    "ABREVIATURA": "MID",
+    "SIGNIFICADO": "membro inferior direito"
+  },
+  {
+    "ABREVIATURA": "MIE",
+    "SIGNIFICADO": "membro inferior esquerdo"
+  },
+  {
+    "ABREVIATURA": "MIN",
+    "SIGNIFICADO": "mínimo"
+  },
+  {
+    "ABREVIATURA": "min",
+    "SIGNIFICADO": "minuto"
+  },
+  {
+    "ABREVIATURA": "ML",
+    "SIGNIFICADO": "mililitro(s)"
+  },
+  {
+    "ABREVIATURA": "mm",
+    "SIGNIFICADO": "milímetro (s)"
+  },
+  {
+    "ABREVIATURA": "MM",
+    "SIGNIFICADO": "membros"
+  },
+  {
+    "ABREVIATURA": "mmHg",
+    "SIGNIFICADO": "milímetro (s) de mercúrio"
+  },
+  {
+    "ABREVIATURA": "MMII",
+    "SIGNIFICADO": "membros inferiores"
+  },
+  {
+    "ABREVIATURA": "MMSS",
+    "SIGNIFICADO": "membros superiores"
+  },
+  {
+    "ABREVIATURA": "MP",
+    "SIGNIFICADO": "marcapasso"
+  },
+  {
+    "ABREVIATURA": "MPD",
+    "SIGNIFICADO": "marcapasso definitivo"
+  },
+  {
+    "ABREVIATURA": "MPP",
+    "SIGNIFICADO": "má perfusão periférica"
+  },
+  {
+    "ABREVIATURA": "MRM",
+    "SIGNIFICADO": "melhor resposta motora"
+  },
+  {
+    "ABREVIATURA": "MRSA",
+    "SIGNIFICADO": "sigla em inglês para Staphylococcus Aureus resistente a meticilina"
+  },
+  {
+    "ABREVIATURA": "MRV",
+    "SIGNIFICADO": "melhor resposta verbal"
+  },
+  {
+    "ABREVIATURA": "MS",
+    "SIGNIFICADO": "Ministério da Saúde"
+  },
+  {
+    "ABREVIATURA": "MSD",
+    "SIGNIFICADO": "membro superior direito"
+  },
+  {
+    "ABREVIATURA": "MSE",
+    "SIGNIFICADO": "membro superior esquerdo"
+  },
+  {
+    "ABREVIATURA": "Multi-R",
+    "SIGNIFICADO": "multirresistente"
+  },
+  {
+    "ABREVIATURA": "MV",
+    "SIGNIFICADO": "murmúrio vesicular"
+  },
+  {
+    "ABREVIATURA": "MVUA",
+    "SIGNIFICADO": "murmúrio vesicular universalmente audível"
+  },
+  {
+    "ABREVIATURA": "N",
+    "SIGNIFICADO": "não"
+  },
+  {
+    "ABREVIATURA": "N2",
+    "SIGNIFICADO": "nitrogênio"
+  },
+  {
+    "ABREVIATURA": "Na",
+    "SIGNIFICADO": "sódio, sendo também permitido: Na+"
+  },
+  {
+    "ABREVIATURA": "NA",
+    "SIGNIFICADO": "não se aplica"
+  },
+  {
+    "ABREVIATURA": "Não-HDL",
+    "SIGNIFICADO": "Não - lipoproteína de alta densidade"
+  },
+  {
+    "ABREVIATURA": "NBZ",
+    "SIGNIFICADO": "nebulização"
+  },
+  {
+    "ABREVIATURA": "NDN",
+    "SIGNIFICADO": "nada digno de nota"
+  },
+  {
+    "ABREVIATURA": "NE",
+    "SIGNIFICADO": "nutrição enteral"
+  },
+  {
+    "ABREVIATURA": "NEO",
+    "SIGNIFICADO": "neoplasia"
+  },
+  {
+    "ABREVIATURA": "NEURO",
+    "SIGNIFICADO": "neurologia"
+  },
+  {
+    "ABREVIATURA": "NL ou nl",
+    "SIGNIFICADO": "normal"
+  },
+  {
+    "ABREVIATURA": "nº",
+    "SIGNIFICADO": "número"
+  },
+  {
+    "ABREVIATURA": "NP",
+    "SIGNIFICADO": "nutrição parenteral"
+  },
+  {
+    "ABREVIATURA": "NPC",
+    "SIGNIFICADO": "nutrição parenteral central"
+  },
+  {
+    "ABREVIATURA": "NPH",
+    "SIGNIFICADO": "sigla em inglês para: insulina NPH"
+  },
+  {
+    "ABREVIATURA": "NPP",
+    "SIGNIFICADO": "nutrição parenteral periférica"
+  },
+  {
+    "ABREVIATURA": "NPT",
+    "SIGNIFICADO": "nutrição parenteral total"
+  },
+  {
+    "ABREVIATURA": "NR",
+    "SIGNIFICADO": "Norma Regulamentar"
+  },
+  {
+    "ABREVIATURA": "NSP",
+    "SIGNIFICADO": "Núcleo de Segurança do Paciente"
+  },
+  {
+    "ABREVIATURA": "O2",
+    "SIGNIFICADO": "oxigênio"
+  },
+  {
+    "ABREVIATURA": "OBS ou obs",
+    "SIGNIFICADO": "observação"
+  },
+  {
+    "ABREVIATURA": "oC",
+    "SIGNIFICADO": "graus celsius"
+  },
+  {
+    "ABREVIATURA": "OK",
+    "SIGNIFICADO": "permitido o uso com o significado de: estar bem"
+  },
+  {
+    "ABREVIATURA": "OMA",
+    "SIGNIFICADO": "otite média aguda"
+  },
+  {
+    "ABREVIATURA": "OMS",
+    "SIGNIFICADO": "Organização Mundial da Saúde"
+  },
+  {
+    "ABREVIATURA": "OPAS",
+    "SIGNIFICADO": "Organização Pan Americana de Saúde"
+  },
+  {
+    "ABREVIATURA": "OPME",
+    "SIGNIFICADO": "órteses, próteses e materiais especiais"
+  },
+  {
+    "ABREVIATURA": "ORO",
+    "SIGNIFICADO": "orofaringe"
+  },
+  {
+    "ABREVIATURA": "ORO",
+    "SIGNIFICADO": "orofaringe"
+  },
+  {
+    "ABREVIATURA": "ORTO",
+    "SIGNIFICADO": "ortopedia"
+  },
+  {
+    "ABREVIATURA": "ORTO",
+    "SIGNIFICADO": "ortopedia"
+  },
+  {
+    "ABREVIATURA": "Osm",
+    "SIGNIFICADO": "osmol ou osmolaridade"
+  },
+  {
+    "ABREVIATURA": "Osm",
+    "SIGNIFICADO": "osmol ou osmolaridade"
+  },
+  {
+    "ABREVIATURA": "OT",
+    "SIGNIFICADO": "orotraqueal"
+  },
+  {
+    "ABREVIATURA": "OT",
+    "SIGNIFICADO": "orotraqueal"
+  },
+  {
+    "ABREVIATURA": "OTO",
+    "SIGNIFICADO": "otoscopia"
+  },
+  {
+    "ABREVIATURA": "OTO",
+    "SIGNIFICADO": "otoscopia"
+  },
+  {
+    "ABREVIATURA": "OVACE",
+    "SIGNIFICADO": "Obstrução de vias aéreas por corpo estranho"
+  },
+  {
+    "ABREVIATURA": "OVACE",
+    "SIGNIFICADO": "Obstrução de vias aéreas por corpo estranho"
+  },
+  {
+    "ABREVIATURA": "OVAS",
+    "SIGNIFICADO": "obstrução de vias aéreas superiores"
+  },
+  {
+    "ABREVIATURA": "OVAS",
+    "SIGNIFICADO": "obstrução de vias aéreas superiores"
+  },
+  {
+    "ABREVIATURA": "P",
+    "SIGNIFICADO": "pulso"
+  },
+  {
+    "ABREVIATURA": "P/ ou p/",
+    "SIGNIFICADO": "para"
+  },
+  {
+    "ABREVIATURA": "P/ ou p/",
+    "SIGNIFICADO": "para"
+  },
+  {
+    "ABREVIATURA": "PA",
+    "SIGNIFICADO": "pressão arterial"
+  },
+  {
+    "ABREVIATURA": "PA",
+    "SIGNIFICADO": "pressão arterial"
+  },
+  {
+    "ABREVIATURA": "PAAF",
+    "SIGNIFICADO": "punção aspirativa com agulha fina"
+  },
+  {
+    "ABREVIATURA": "PAAF",
+    "SIGNIFICADO": "punção aspirativa com agulha fina"
+  },
+  {
+    "ABREVIATURA": "PAC",
+    "SIGNIFICADO": "pneumonia adquirida na comunidade"
+  },
+  {
+    "ABREVIATURA": "PAC",
+    "SIGNIFICADO": "pneumonia adquirida na comunidade"
+  },
+  {
+    "ABREVIATURA": "PACO2",
+    "SIGNIFICADO": "pressão arterial de gás carbônico"
+  },
+  {
+    "ABREVIATURA": "PACO2",
+    "SIGNIFICADO": "pressão arterial de gás carbônico"
+  },
+  {
+    "ABREVIATURA": "PAD",
+    "SIGNIFICADO": "pressão arterial diastólica"
+  },
+  {
+    "ABREVIATURA": "PAD",
+    "SIGNIFICADO": "pressão arterial diastólica"
+  },
+  {
+    "ABREVIATURA": "PAF",
+    "SIGNIFICADO": "perfuração por arma de fogo"
+  },
+  {
+    "ABREVIATURA": "PAF",
+    "SIGNIFICADO": "perfuração por arma de fogo"
+  },
+  {
+    "ABREVIATURA": "PAI",
+    "SIGNIFICADO": "pressão arterial invasiva"
+  },
+  {
+    "ABREVIATURA": "PAI",
+    "SIGNIFICADO": "pressão arterial invasiva"
+  },
+  {
+    "ABREVIATURA": "PALS",
+    "SIGNIFICADO": "sigla em inglês para: Suporte Avançado de Vida em Pediatria"
+  },
+  {
+    "ABREVIATURA": "PALS",
+    "SIGNIFICADO": "sigla em inglês para: Suporte Avançado de Vida em Pediatria"
+  },
+  {
+    "ABREVIATURA": "PAM",
+    "SIGNIFICADO": "pressão arterial média"
+  },
+  {
+    "ABREVIATURA": "PAM",
+    "SIGNIFICADO": "pressão arterial média"
+  },
+  {
+    "ABREVIATURA": "PANI",
+    "SIGNIFICADO": "pressão arterial não invasiva"
+  },
+  {
+    "ABREVIATURA": "PANI",
+    "SIGNIFICADO": "pressão arterial não invasiva"
+  },
+  {
+    "ABREVIATURA": "PAO2",
+    "SIGNIFICADO": "pressão parcial de oxigênio"
+  },
+  {
+    "ABREVIATURA": "PAO2",
+    "SIGNIFICADO": "pressão parcial de oxigênio"
+  },
+  {
+    "ABREVIATURA": "PAS",
+    "SIGNIFICADO": "pressão arterial sistólica"
+  },
+  {
+    "ABREVIATURA": "PAS",
+    "SIGNIFICADO": "pressão arterial sistólica"
+  },
+  {
+    "ABREVIATURA": "PAV",
+    "SIGNIFICADO": "pneumonia associada à ventilação mecânica"
+  },
+  {
+    "ABREVIATURA": "PAV",
+    "SIGNIFICADO": "pneumonia associada à ventilação mecânica"
+  },
+  {
+    "ABREVIATURA": "PC",
+    "SIGNIFICADO": "perímetro cefálico"
+  },
+  {
+    "ABREVIATURA": "PC",
+    "SIGNIFICADO": "perímetro cefálico"
+  },
+  {
+    "ABREVIATURA": "PCA",
+    "SIGNIFICADO": "sigla em inglês para: analgesia controlada pelo paciente"
+  },
+  {
+    "ABREVIATURA": "PCA",
+    "SIGNIFICADO": "sigla em inglês para: analgesia controlada pelo paciente"
+  },
+  {
+    "ABREVIATURA": "PCO2",
+    "SIGNIFICADO": "pressão de gás carbônico"
+  },
+  {
+    "ABREVIATURA": "PCR",
+    "SIGNIFICADO": "parada cadiorrespiratória"
+  },
+  {
+    "ABREVIATURA": "PCReativa",
+    "SIGNIFICADO": "proteína C reativa. Quando referindo ao exame"
+  },
+  {
+    "ABREVIATURA": "PCST",
+    "SIGNIFICADO": "parto cesárea secção transversa"
+  },
+  {
+    "ABREVIATURA": "Pcte ou pcte",
+    "SIGNIFICADO": "paciente"
+  },
+  {
+    "ABREVIATURA": "PEEP",
+    "SIGNIFICADO": "pressão positiva expiratória final"
+  },
+  {
+    "ABREVIATURA": "PEWS",
+    "SIGNIFICADO": "Pediatric early warning score (escore pediátrico de alerta precoce)"
+  },
+  {
+    "ABREVIATURA": "PG",
+    "SIGNIFICADO": "prostraglandina"
+  },
+  {
+    "ABREVIATURA": "pH",
+    "SIGNIFICADO": "potencial de hidrogênio iônico"
+  },
+  {
+    "ABREVIATURA": "PIC",
+    "SIGNIFICADO": "pressão intra craniana"
+  },
+  {
+    "ABREVIATURA": "PICC",
+    "SIGNIFICADO": "cateter central de inserção periférica. Também admitido CCIP"
+  },
+  {
+    "ABREVIATURA": "PIFR",
+    "SIGNIFICADO": "Pupilas isocóricas e fotorreagentes"
+  },
+  {
+    "ABREVIATURA": "PIG",
+    "SIGNIFICADO": "pequeno para a idade gestacional"
+  },
+  {
+    "ABREVIATURA": "PIM",
+    "SIGNIFICADO": "pós infarto"
+  },
+  {
+    "ABREVIATURA": "Pinsp",
+    "SIGNIFICADO": "pressão inspiratória"
+  },
+  {
+    "ABREVIATURA": "PLAQ",
+    "SIGNIFICADO": "plaquetas"
+  },
+  {
+    "ABREVIATURA": "PM",
+    "SIGNIFICADO": "prescrição médica"
+  },
+  {
+    "ABREVIATURA": "PMV",
+    "SIGNIFICADO": "para manter veia"
+  },
+  {
+    "ABREVIATURA": "PNI",
+    "SIGNIFICADO": "pressão não invasiva"
+  },
+  {
+    "ABREVIATURA": "PNM",
+    "SIGNIFICADO": "pneumonia"
+  },
+  {
+    "ABREVIATURA": "PO",
+    "SIGNIFICADO": "pós operatório"
+  },
+  {
+    "ABREVIATURA": "PO2",
+    "SIGNIFICADO": "pressão de oxigênio"
+  },
+  {
+    "ABREVIATURA": "POI",
+    "SIGNIFICADO": "pós operatório imediato"
+  },
+  {
+    "ABREVIATURA": "POLITRAUMA",
+    "SIGNIFICADO": "politraumatismo"
+  },
+  {
+    "ABREVIATURA": "POP",
+    "SIGNIFICADO": "procedimento operacional padrão"
+  },
+  {
+    "ABREVIATURA": "POT",
+    "SIGNIFICADO": "pós operatório tardio"
+  },
+  {
+    "ABREVIATURA": "PP",
+    "SIGNIFICADO": "perfusão periférica"
+  },
+  {
+    "ABREVIATURA": "PPD",
+    "SIGNIFICADO": "sigla em inglês para: derivativa de proteína purificada. Teste tuberculínico"
+  },
+  {
+    "ABREVIATURA": "PPF",
+    "SIGNIFICADO": "protoparasitológico de fezes"
+  },
+  {
+    "ABREVIATURA": "PPI",
+    "SIGNIFICADO": "pico de pressão inspiratória"
+  },
+  {
+    "ABREVIATURA": "PREOP",
+    "SIGNIFICADO": "pré operatório"
+  },
+  {
+    "ABREVIATURA": "PS",
+    "SIGNIFICADO": "pronto socorro"
+  },
+  {
+    "ABREVIATURA": "PSA",
+    "SIGNIFICADO": "sigla em inglês para: antígeno prostático específico"
+  },
+  {
+    "ABREVIATURA": "PSAL",
+    "SIGNIFICADO": "antígeno prostático específico livre"
+  },
+  {
+    "ABREVIATURA": "PSAT",
+    "SIGNIFICADO": "antígeno prostático específico total"
+  },
+  {
+    "ABREVIATURA": "PSI",
+    "SIGNIFICADO": "pronto socorro infantil"
+  },
+  {
+    "ABREVIATURA": "PSOF",
+    "SIGNIFICADO": "pesquisa de sangue oculto nas fezes"
+  },
+  {
+    "ABREVIATURA": "PSV",
+    "SIGNIFICADO": "sigla em inglês para: ventilação com pressão de suporte"
+  },
+  {
+    "ABREVIATURA": "PT",
+    "SIGNIFICADO": "perímetro torácico"
+  },
+  {
+    "ABREVIATURA": "PTQ",
+    "SIGNIFICADO": "petéquias"
+  },
+  {
+    "ABREVIATURA": "PV",
+    "SIGNIFICADO": "parto vaginal"
+  },
+  {
+    "ABREVIATURA": "PVC",
+    "SIGNIFICADO": "pressão venosa central"
+  },
+  {
+    "ABREVIATURA": "PVCO2",
+    "SIGNIFICADO": "pressão venosa de gás carbônico"
+  },
+  {
+    "ABREVIATURA": "PVM",
+    "SIGNIFICADO": "prolapso da valva mitral"
+  },
+  {
+    "ABREVIATURA": "PVO2",
+    "SIGNIFICADO": "pressão venosa de pxigênio"
+  },
+  {
+    "ABREVIATURA": "PVPI",
+    "SIGNIFICADO": "polivinil pirrolidona iodo"
+  },
+  {
+    "ABREVIATURA": "QI",
+    "SIGNIFICADO": "quadrante inferior"
+  },
+  {
+    "ABREVIATURA": "QID",
+    "SIGNIFICADO": "quadrante inferior direito"
+  },
+  {
+    "ABREVIATURA": "QIE",
+    "SIGNIFICADO": "quadrante inferior esquerdo"
+  },
+  {
+    "ABREVIATURA": "QP",
+    "SIGNIFICADO": "queixa principal"
+  },
+  {
+    "ABREVIATURA": "QQII",
+    "SIGNIFICADO": "quadrantes inferiores"
+  },
+  {
+    "ABREVIATURA": "QQSS",
+    "SIGNIFICADO": "quadrantes superiores"
+  },
+  {
+    "ABREVIATURA": "QS",
+    "SIGNIFICADO": "quadrante superior"
+  },
+  {
+    "ABREVIATURA": "QSD",
+    "SIGNIFICADO": "quadrante superior direito"
+  },
+  {
+    "ABREVIATURA": "QSE",
+    "SIGNIFICADO": "quadrante superior esquerdo"
+  },
+  {
+    "ABREVIATURA": "QT",
+    "SIGNIFICADO": "quimioterapia"
+  },
+  {
+    "ABREVIATURA": "QTDE",
+    "SIGNIFICADO": "quantidade"
+  },
+  {
+    "ABREVIATURA": "RA",
+    "SIGNIFICADO": "ruídos adventícios"
+  },
+  {
+    "ABREVIATURA": "RADIO",
+    "SIGNIFICADO": "radioterapia"
+  },
+  {
+    "ABREVIATURA": "RAM",
+    "SIGNIFICADO": "Reação adversa a medicamento"
+  },
+  {
+    "ABREVIATURA": "RC",
+    "SIGNIFICADO": "rebordo costal"
+  },
+  {
+    "ABREVIATURA": "RCD",
+    "SIGNIFICADO": "rebordo costal direito"
+  },
+  {
+    "ABREVIATURA": "RCE",
+    "SIGNIFICADO": "rebordo costal esquerdo"
+  },
+  {
+    "ABREVIATURA": "RCI",
+    "SIGNIFICADO": "ritmo cardíaco irregular"
+  },
+  {
+    "ABREVIATURA": "RCIU",
+    "SIGNIFICADO": "restrição de crescimento intra uterino"
+  },
+  {
+    "ABREVIATURA": "RCOP",
+    "SIGNIFICADO": "Registro Clínico Orientado por Problemas"
+  },
+  {
+    "ABREVIATURA": "RCP",
+    "SIGNIFICADO": "ressuscitação cardio pulmonar"
+  },
+  {
+    "ABREVIATURA": "RCR",
+    "SIGNIFICADO": "ritmo cardíaco regular"
+  },
+  {
+    "ABREVIATURA": "RDT",
+    "SIGNIFICADO": "radioterapia"
+  },
+  {
+    "ABREVIATURA": "REG",
+    "SIGNIFICADO": "regular estado geral"
+  },
+  {
+    "ABREVIATURA": "RFE",
+    "SIGNIFICADO": "retração de fúrcula esternal"
+  },
+  {
+    "ABREVIATURA": "RFM",
+    "SIGNIFICADO": "reflexo fotomotor"
+  },
+  {
+    "ABREVIATURA": "RH",
+    "SIGNIFICADO": "restrição hídrica"
+  },
+  {
+    "ABREVIATURA": "RHA",
+    "SIGNIFICADO": "ruídos hidroaéreos"
+  },
+  {
+    "ABREVIATURA": "RI",
+    "SIGNIFICADO": "ritmo irregular"
+  },
+  {
+    "ABREVIATURA": "RL",
+    "SIGNIFICADO": "ringer lactato"
+  },
+  {
+    "ABREVIATURA": "RM",
+    "SIGNIFICADO": "resposta motora"
+  },
+  {
+    "ABREVIATURA": "RN",
+    "SIGNIFICADO": "recém nascido"
+  },
+  {
+    "ABREVIATURA": "RNC",
+    "SIGNIFICADO": "rebaixamento do nível de consciência"
+  },
+  {
+    "ABREVIATURA": "RNM",
+    "SIGNIFICADO": "ressonância nuclear magnética"
+  },
+  {
+    "ABREVIATURA": "RNPO",
+    "SIGNIFICADO": "recém nascido pós- termo"
+  },
+  {
+    "ABREVIATURA": "RNPT",
+    "SIGNIFICADO": "recém nascido pré-termo"
+  },
+  {
+    "ABREVIATURA": "RNT",
+    "SIGNIFICADO": "recém nascido de termo"
+  },
+  {
+    "ABREVIATURA": "RPA",
+    "SIGNIFICADO": "recuperação pós anestésica"
+  },
+  {
+    "ABREVIATURA": "rpm",
+    "SIGNIFICADO": "respirações por minuto"
+  },
+  {
+    "ABREVIATURA": "RPM",
+    "SIGNIFICADO": "ruptura prematura de membrana"
+  },
+  {
+    "ABREVIATURA": "RPP",
+    "SIGNIFICADO": "regular perfusão periférica"
+  },
+  {
+    "ABREVIATURA": "RR",
+    "SIGNIFICADO": "ritmo regular"
+  },
+  {
+    "ABREVIATURA": "RS",
+    "SIGNIFICADO": "ritmo sinusal"
+  },
+  {
+    "ABREVIATURA": "RSD",
+    "SIGNIFICADO": "retração subdiafragmática"
+  },
+  {
+    "ABREVIATURA": "RT",
+    "SIGNIFICADO": "responsável técnico (a)"
+  },
+  {
+    "ABREVIATURA": "RV",
+    "SIGNIFICADO": "resposta verbal"
+  },
+  {
+    "ABREVIATURA": "RVF",
+    "SIGNIFICADO": "retroversoflexão"
+  },
+  {
+    "ABREVIATURA": "RVM",
+    "SIGNIFICADO": "revascularização miocárdica"
+  },
+  {
+    "ABREVIATURA": "RX",
+    "SIGNIFICADO": "raio x"
+  },
+  {
+    "ABREVIATURA": "S",
+    "SIGNIFICADO": "sim"
+  },
+  {
+    "ABREVIATURA": "S/ ou s/",
+    "SIGNIFICADO": "sem"
+  },
+  {
+    "ABREVIATURA": "S/N ou SN",
+    "SIGNIFICADO": "se necessário"
+  },
+  {
+    "ABREVIATURA": "SADT",
+    "SIGNIFICADO": "Serviço Auxiliar de Diagnóstico e Terapia"
+  },
+  {
+    "ABREVIATURA": "SAE",
+    "SIGNIFICADO": "sistematização da assistência de enfermagem"
+  },
+  {
+    "ABREVIATURA": "Sal. ou sal.",
+    "SIGNIFICADO": "salinizado"
+  },
+  {
+    "ABREVIATURA": "SAMEB",
+    "SIGNIFICADO": "Serviço de Assistência Médica de Barueri"
+  },
+  {
+    "ABREVIATURA": "SAMU",
+    "SIGNIFICADO": "Serviço de Atendimento Móvel de Urgência"
+  },
+  {
+    "ABREVIATURA": "SARA",
+    "SIGNIFICADO": "síndrome da angústia respiratória do adulto"
+  },
+  {
+    "ABREVIATURA": "Sat ou SAT",
+    "SIGNIFICADO": "saturação"
+  },
+  {
+    "ABREVIATURA": "Sat.O2 ou SAT.O2",
+    "SIGNIFICADO": "saturação de oxigênio"
+  },
+  {
+    "ABREVIATURA": "SAV",
+    "SIGNIFICADO": "suporte avançado de vida"
+  },
+  {
+    "ABREVIATURA": "SBV",
+    "SIGNIFICADO": "suporte básico de vida"
+  },
+  {
+    "ABREVIATURA": "SC",
+    "SIGNIFICADO": "subcutâneo (a)"
+  },
+  {
+    "ABREVIATURA": "SCA",
+    "SIGNIFICADO": "síndrome coranariana aguda"
+  },
+  {
+    "ABREVIATURA": "SCD",
+    "SIGNIFICADO": "subclávia direita"
+  },
+  {
+    "ABREVIATURA": "SCE",
+    "SIGNIFICADO": "subclávia esquerda"
+  },
+  {
+    "ABREVIATURA": "SCIH",
+    "SIGNIFICADO": "Serviço de Controle de Infecção Hospitalar"
+  },
+  {
+    "ABREVIATURA": "SD",
+    "SIGNIFICADO": "síndrome"
+  },
+  {
+    "ABREVIATURA": "SDMO",
+    "SIGNIFICADO": "síndrome de disfunção de múltiplos órgãos"
+  },
+  {
+    "ABREVIATURA": "SDRA",
+    "SIGNIFICADO": "síndrome do desconforto respiratório agudo. Também permitido SARA para síndrome da angústia respiratória aguda"
+  },
+  {
+    "ABREVIATURA": "SE",
+    "SIGNIFICADO": "sonda enteral"
+  },
+  {
+    "ABREVIATURA": "Sem ou SEM",
+    "SIGNIFICADO": "semana (s)"
+  },
+  {
+    "ABREVIATURA": "SESMT",
+    "SIGNIFICADO": "Serviço Especializado em Engenharia de Segurança e em Medicina do Trabalho"
+  },
+  {
+    "ABREVIATURA": "SF",
+    "SIGNIFICADO": "soro fisiológico"
+  },
+  {
+    "ABREVIATURA": "SFA",
+    "SIGNIFICADO": "sofrimento fetal agudo"
+  },
+  {
+    "ABREVIATURA": "SFC",
+    "SIGNIFICADO": "sofrimento fetal crônico"
+  },
+  {
+    "ABREVIATURA": "SG",
+    "SIGNIFICADO": "soro glicosado"
+  },
+  {
+    "ABREVIATURA": "SGF",
+    "SIGNIFICADO": "soro glicofisiológico"
+  },
+  {
+    "ABREVIATURA": "SHAM",
+    "SIGNIFICADO": "Santa Helena Assistência Médica"
+  },
+  {
+    "ABREVIATURA": "SIAD",
+    "SIGNIFICADO": "Suporte integrado ao paciente com alta dependência"
+  },
+  {
+    "ABREVIATURA": "SIC",
+    "SIGNIFICADO": "segundo informações colhidas"
+  },
+  {
+    "ABREVIATURA": "SIDA",
+    "SIGNIFICADO": "síndrome da imunodeficiência adquirida. Também admitido como equivalente: AIDS"
+  },
+  {
+    "ABREVIATURA": "SIMV",
+    "SIGNIFICADO": "sigla em inglês para: ventilação mandatória intermitente sincronizada"
+  },
+  {
+    "ABREVIATURA": "SL",
+    "SIGNIFICADO": "sublingual"
+  },
+  {
+    "ABREVIATURA": "SNC",
+    "SIGNIFICADO": "sistema nervoso central"
+  },
+  {
+    "ABREVIATURA": "SNE",
+    "SIGNIFICADO": "sonda nasoenteral"
+  },
+  {
+    "ABREVIATURA": "SNG",
+    "SIGNIFICADO": "sonda nasogástrica"
+  },
+  {
+    "ABREVIATURA": "SOAP",
+    "SIGNIFICADO": "subjetivo, objetivo, avaliação e plano"
+  },
+  {
+    "ABREVIATURA": "SOG",
+    "SIGNIFICADO": "sonda orogástrica"
+  },
+  {
+    "ABREVIATURA": "SPO2 ou SpO2",
+    "SIGNIFICADO": "saturação de pulso de oxigênio, saturação de oxigênio pela oximetria digital"
+  },
+  {
+    "ABREVIATURA": "Sr.",
+    "SIGNIFICADO": "senhor"
+  },
+  {
+    "ABREVIATURA": "Sra.",
+    "SIGNIFICADO": "senhora"
+  },
+  {
+    "ABREVIATURA": "SRAG",
+    "SIGNIFICADO": "Síndrome respiratória aguda grave"
+  },
+  {
+    "ABREVIATURA": "SRIS",
+    "SIGNIFICADO": "sigla em inglês para: síndrome da resposta Inflamatória sistêmica. Também permitido: SIRS."
+  },
+  {
+    "ABREVIATURA": "SRL",
+    "SIGNIFICADO": "solução de ringer lactato"
+  },
+  {
+    "ABREVIATURA": "SRS",
+    "SIGNIFICADO": "solução de ringer simples"
+  },
+  {
+    "ABREVIATURA": "SS",
+    "SIGNIFICADO": "sopro sistólico"
+  },
+  {
+    "ABREVIATURA": "SSST",
+    "SIGNIFICADO": "sem supradesnivelamento do segmento ST. Também aceito: sem supra de ST"
+  },
+  {
+    "ABREVIATURA": "SST",
+    "SIGNIFICADO": "supradesnivelamento do segmento ST. Também aceito supra ST"
+  },
+  {
+    "ABREVIATURA": "SSVV",
+    "SIGNIFICADO": "sinais vitais"
+  },
+  {
+    "ABREVIATURA": "SUS",
+    "SIGNIFICADO": "Sistema Único de Saúde"
+  },
+  {
+    "ABREVIATURA": "SV",
+    "SIGNIFICADO": "sonda vesical"
+  },
+  {
+    "ABREVIATURA": "SVA",
+    "SIGNIFICADO": "sonda vesical de alívio"
+  },
+  {
+    "ABREVIATURA": "SVD",
+    "SIGNIFICADO": "sonda vesical de demora"
+  },
+  {
+    "ABREVIATURA": "SVO2",
+    "SIGNIFICADO": "saturação venosa de oxigênio. Usualmente admitido para saturação venosa central ou venosa mista"
+  },
+  {
+    "ABREVIATURA": "T",
+    "SIGNIFICADO": "temperatura"
+  },
+  {
+    "ABREVIATURA": "T3",
+    "SIGNIFICADO": "triiodotironina"
+  },
+  {
+    "ABREVIATURA": "T4",
+    "SIGNIFICADO": "tetraiodotironina ou tiroxina"
+  },
+  {
+    "ABREVIATURA": "TAV",
+    "SIGNIFICADO": "tranqueobronquite associada à ventilação mecânica"
+  },
+  {
+    "ABREVIATURA": "TB",
+    "SIGNIFICADO": "tuberculose"
+  },
+  {
+    "ABREVIATURA": "TBG",
+    "SIGNIFICADO": "tabagista"
+  },
+  {
+    "ABREVIATURA": "TC ou CT",
+    "SIGNIFICADO": "tomografia computadorizada"
+  },
+  {
+    "ABREVIATURA": "TCE",
+    "SIGNIFICADO": "traumatismo crânio-encefálico"
+  },
+  {
+    "ABREVIATURA": "TD",
+    "SIGNIFICADO": "transdérmico"
+  },
+  {
+    "ABREVIATURA": "TEC",
+    "SIGNIFICADO": "tempo de enchimento capilar"
+  },
+  {
+    "ABREVIATURA": "Téc.Enf.",
+    "SIGNIFICADO": "técnico (a) de enfermagem"
+  },
+  {
+    "ABREVIATURA": "TEP",
+    "SIGNIFICADO": "tromboembolismo pulmonar"
+  },
+  {
+    "ABREVIATURA": "TEV",
+    "SIGNIFICADO": "tromboembolismo venoso"
+  },
+  {
+    "ABREVIATURA": "TGI",
+    "SIGNIFICADO": "trato gastrointestinal"
+  },
+  {
+    "ABREVIATURA": "TGL",
+    "SIGNIFICADO": "triglicérides"
+  },
+  {
+    "ABREVIATURA": "TGO",
+    "SIGNIFICADO": "transaminase oxaloacética. Também permitido: AST (aspartato transaminase)"
+  },
+  {
+    "ABREVIATURA": "TGP",
+    "SIGNIFICADO": "transaminase pirúvica. Também permitido: ALT (alanina transaminase)"
+  },
+  {
+    "ABREVIATURA": "TGU",
+    "SIGNIFICADO": "Trato genitourinário"
+  },
+  {
+    "ABREVIATURA": "TIC",
+    "SIGNIFICADO": "tiragem intercostal"
+  },
+  {
+    "ABREVIATURA": "TISS",
+    "SIGNIFICADO": "Troca de Informação em Saúde Suplementar"
+  },
+  {
+    "ABREVIATURA": "TMO",
+    "SIGNIFICADO": "transplante de medula óssea"
+  },
+  {
+    "ABREVIATURA": "TP",
+    "SIGNIFICADO": "trabalho de parto"
+  },
+  {
+    "ABREVIATURA": "TPP",
+    "SIGNIFICADO": "trabalho de parto prematuro"
+  },
+  {
+    "ABREVIATURA": "TPSV",
+    "SIGNIFICADO": "taquicardia paroxística supraventricular"
+  },
+  {
+    "ABREVIATURA": "TQ",
+    "SIGNIFICADO": "traquéia"
+  },
+  {
+    "ABREVIATURA": "TQT",
+    "SIGNIFICADO": "traqueostomia"
+  },
+  {
+    "ABREVIATURA": "TR",
+    "SIGNIFICADO": "toque retal"
+  },
+  {
+    "ABREVIATURA": "TR",
+    "SIGNIFICADO": "terapia aprovada em UME"
+  },
+  {
+    "ABREVIATURA": "TRM",
+    "SIGNIFICADO": "trauma raquimedular"
+  },
+  {
+    "ABREVIATURA": "TRO",
+    "SIGNIFICADO": "terapia de reidratação oral"
+  },
+  {
+    "ABREVIATURA": "TROPO",
+    "SIGNIFICADO": "troponina"
+  },
+  {
+    "ABREVIATURA": "TS",
+    "SIGNIFICADO": "tempo de sangramento"
+  },
+  {
+    "ABREVIATURA": "TSH",
+    "SIGNIFICADO": "Sigla em inglês para: hormônio tireoestimulante. Preferível em lugar do equivalente em português: HTE, devido ao amplo uso."
+  },
+  {
+    "ABREVIATURA": "TSVP",
+    "SIGNIFICADO": "taquicardia supra ventricular paroxística"
+  },
+  {
+    "ABREVIATURA": "TT",
+    "SIGNIFICADO": "tempo de tromboplastina"
+  },
+  {
+    "ABREVIATURA": "TTGO",
+    "SIGNIFICADO": "teste tolerância à glicose oral"
+  },
+  {
+    "ABREVIATURA": "TTO",
+    "SIGNIFICADO": "tratamento"
+  },
+  {
+    "ABREVIATURA": "TTPA",
+    "SIGNIFICADO": "tempo de tromboplastina parcial ativada"
+  },
+  {
+    "ABREVIATURA": "TU",
+    "SIGNIFICADO": "tumor"
+  },
+  {
+    "ABREVIATURA": "TUSS",
+    "SIGNIFICADO": "Terminologia Unificada de Saúde Suplementar"
+  },
+  {
+    "ABREVIATURA": "TV",
+    "SIGNIFICADO": "taquicardia ventricular"
+  },
+  {
+    "ABREVIATURA": "TVNS",
+    "SIGNIFICADO": "taquicardia ventricular não sustentada"
+  },
+  {
+    "ABREVIATURA": "TVP",
+    "SIGNIFICADO": "trombose venosa profunda"
+  },
+  {
+    "ABREVIATURA": "TX",
+    "SIGNIFICADO": "transplante"
+  },
+  {
+    "ABREVIATURA": "UCO",
+    "SIGNIFICADO": "unidade coronariana"
+  },
+  {
+    "ABREVIATURA": "UI",
+    "SIGNIFICADO": "unidade de internação"
+  },
+  {
+    "ABREVIATURA": "UME",
+    "SIGNIFICADO": "Unidade de medicamentos especiais"
+  },
+  {
+    "ABREVIATURA": "Ur",
+    "SIGNIFICADO": "uréia"
+  },
+  {
+    "ABREVIATURA": "URC",
+    "SIGNIFICADO": "urocultura"
+  },
+  {
+    "ABREVIATURA": "USG",
+    "SIGNIFICADO": "ultrassonografia. Válido também US"
+  },
+  {
+    "ABREVIATURA": "USGTV",
+    "SIGNIFICADO": "Ultrassonografia transvaginal. Válido também USTV"
+  },
+  {
+    "ABREVIATURA": "UTI",
+    "SIGNIFICADO": "unidade de terapia intensiva"
+  },
+  {
+    "ABREVIATURA": "VA",
+    "SIGNIFICADO": "vias aéreas"
+  },
+  {
+    "ABREVIATURA": "VAS",
+    "SIGNIFICADO": "vias aéreas superiores"
+  },
+  {
+    "ABREVIATURA": "VC",
+    "SIGNIFICADO": "volume corrente"
+  },
+  {
+    "ABREVIATURA": "VCM",
+    "SIGNIFICADO": "volume corpuscular médio"
+  },
+  {
+    "ABREVIATURA": "VD",
+    "SIGNIFICADO": "ventrículo direito"
+  },
+  {
+    "ABREVIATURA": "VE",
+    "SIGNIFICADO": "ventrículo esquerdo"
+  },
+  {
+    "ABREVIATURA": "VESP ou Vesp",
+    "SIGNIFICADO": "ventilação espontânea"
+  },
+  {
+    "ABREVIATURA": "VG",
+    "SIGNIFICADO": "via gástrica"
+  },
+  {
+    "ABREVIATURA": "VHS",
+    "SIGNIFICADO": "velocidade de hemossedimentação"
+  },
+  {
+    "ABREVIATURA": "VI",
+    "SIGNIFICADO": "via inalatória"
+  },
+  {
+    "ABREVIATURA": "VIT ou Vit",
+    "SIGNIFICADO": "vitamina"
+  },
+  {
+    "ABREVIATURA": "VLDL",
+    "SIGNIFICADO": "Sigla em inglês para: lipoproteína de muito baixa densidade"
+  },
+  {
+    "ABREVIATURA": "VLP",
+    "SIGNIFICADO": "videolaparoscopia"
+  },
+  {
+    "ABREVIATURA": "VM",
+    "SIGNIFICADO": "ventilação mecânica"
+  },
+  {
+    "ABREVIATURA": "VMG",
+    "SIGNIFICADO": "visceromegalias"
+  },
+  {
+    "ABREVIATURA": "VMI",
+    "SIGNIFICADO": "ventilação mecânica invasiva"
+  },
+  {
+    "ABREVIATURA": "VMNI",
+    "SIGNIFICADO": "ventilação mecânica não invasiva"
+  },
+  {
+    "ABREVIATURA": "VN",
+    "SIGNIFICADO": "via nasal"
+  },
+  {
+    "ABREVIATURA": "VNI",
+    "SIGNIFICADO": "ventilação não invasiva"
+  },
+  {
+    "ABREVIATURA": "VO",
+    "SIGNIFICADO": "via oral"
+  },
+  {
+    "ABREVIATURA": "VOL",
+    "SIGNIFICADO": "volume"
+  },
+  {
+    "ABREVIATURA": "VR",
+    "SIGNIFICADO": "via retal"
+  },
+  {
+    "ABREVIATURA": "VRE",
+    "SIGNIFICADO": "Enterococcus spp resistentes à vancomicina"
+  },
+  {
+    "ABREVIATURA": "VSR",
+    "SIGNIFICADO": "Vírus sincicial respiratório"
+  },
+  {
+    "ABREVIATURA": "VT",
+    "SIGNIFICADO": "via traqueal"
+  },
+  {
+    "ABREVIATURA": "VTR",
+    "SIGNIFICADO": "viatura"
+  },
+  {
+    "ABREVIATURA": "VV",
+    "SIGNIFICADO": "via vaginal"
+  },
+  {
+    "ABREVIATURA": "WONCA",
+    "SIGNIFICADO": "Organização Mundial de Médicos de Família"
+  },
+  {
+    "ABREVIATURA": "XP",
+    "SIGNIFICADO": "xarope"
+  }
+]
