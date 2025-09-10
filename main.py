@@ -132,4 +132,5 @@ finally:
         conn.close()
     print("Conexão encerrada.")
 
+ #new comment
  
