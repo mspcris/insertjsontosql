@@ -132,4 +132,4 @@ finally:
         conn.close()
     print("Conexão encerrada.")
 
-    #commit 
+ 
